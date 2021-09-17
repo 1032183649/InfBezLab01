@@ -12,4 +12,4 @@
 
 ### Updates
 
-* Lab01 added
+* Lab01 added (https://github.com/1032183649/InfBezLabs/tree/main/Lab01)
