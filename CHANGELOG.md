@@ -1,4 +1,4 @@
-# 1.1.1 (2021-09-17)
+# 1.2.0 (2021-10-01)
 
 
 ### Bug Fixes
@@ -15,3 +15,5 @@
 
 * Lab01 added (2021-09-17) ([913234d](https://github.com/1032183649/InfBezLabs/tree/main/Lab01)) (1.1.0)
 * Lab01 fixed (2021-09-17) (1.1.1)
+* Lab02 added (2021-10-01) ([913234f](https://github.com/1032183649/InfBezLabs/tree/main/Lab02)) (1.2.0)
+
