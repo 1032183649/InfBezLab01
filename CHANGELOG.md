@@ -4,7 +4,7 @@
 ### Bug Fixes
 
 * 1.1.1 (2021-09-17)
-* VM`s name & system`s name were changed from "Base" to "vgkupatenko"
+* VM`s name & system name were changed from "Base" to "vgkupatenko"
 * VM`s stats were changed (1 CPU core added, RAM reduced)
 
 ### Features
