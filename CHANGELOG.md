@@ -1,3 +1,19 @@
+# 1.1.0 (2021-09-17)
+
+
+### Bug Fixes
+
+* no changes
+
+### Features
+
+* no changes
+
+### Updates
+
+* Lab01 uploaded (2021-09-17) ([913234d](https://github.com/1032183649/InfBezLabs/tree/main/Lab01)) (1.1.0)
+* 
+
 # 1.1.1 (2021-09-17)
 
 
@@ -13,7 +29,6 @@
 
 ### Updates
 
-* Lab01 added (2021-09-17) ([913234d](https://github.com/1032183649/InfBezLabs/tree/main/Lab01)) (1.1.0)
 * Lab01 fixed (2021-09-17) (1.1.1)
 
 # 1.2.0 (2021-10-01)
@@ -29,7 +44,7 @@
 
 ### Updates
 
-* Lab02 added (2021-10-01) ([913234f](https://github.com/1032183649/InfBezLabs/tree/main/Lab02)) (1.2.0)
+* Lab02 uploaded (2021-10-01) ([913234f](https://github.com/1032183649/InfBezLabs/tree/main/Lab02)) (1.2.0)
 
 # 1.3.0 (2021-10-13)
 
@@ -44,4 +59,4 @@
 
 ### Updates
 
-* Lab03 added (2021-10-13) ([913234g](https://github.com/1032183649/InfBezLabs/tree/main/Lab03)) (1.3.0)
+* Lab03 uploaded (2021-10-13) ([913234g](https://github.com/1032183649/InfBezLabs/tree/main/Lab03)) (1.3.0)
