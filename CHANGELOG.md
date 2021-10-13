@@ -44,4 +44,4 @@
 
 ### Updates
 
-* Lab03 added (2021-10-01) ([913234f](https://github.com/1032183649/InfBezLabs/tree/main/Lab02)) (1.3.0)
+* Lab03 added (2021-10-13) ([913234g](https://github.com/1032183649/InfBezLabs/tree/main/Lab03)) (1.3.0)
