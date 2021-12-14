@@ -103,4 +103,19 @@
 
 ### Updates
 
-* Lab05 uploaded (2021-11-27) ([942237t](https://github.com/1032183649/InfBezLabs/tree/main/Lab06)) (1.6.0)
+* Lab06 uploaded (2021-11-27) ([942237t](https://github.com/1032183649/InfBezLabs/tree/main/Lab06)) (1.6.0)
+
+# 1.8.0 (2021-12-14)
+
+
+### Bug Fixes
+
+* no changes
+
+### Features
+
+* no changes
+
+### Updates
+
+* Lab08 uploaded (2021-12-14) ([342737u](https://github.com/1032183649/InfBezLabs/tree/main/Lab08)) (1.8.0)
